@@ -1,0 +1,8 @@
+enum Permission {
+  ADMIN = 'ADMIN',
+  VOLUNTARY = 'VOLUNTARY',
+  ASSISTANT_RADIO_OPERATOR = 'ASSISTANT_RADIO_OPERATOR',
+  TRAINEE = 'TRAINEE',
+}
+
+export default Permission;
